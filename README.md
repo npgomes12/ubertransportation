@@ -35,7 +35,7 @@ Load and Explore Raw Dataset: <br/>
 <br />
 
 Filter Uber Ride Data and Select Variables: <br/>
-<img src="YOUR_FILTERING_SCREENSHOT" height="80%" width="80%" alt="Filtering Data"/>
+<img src="https://i.imgur.com/MpbWKQE.png" height="80%" width="80%" alt="Filtering Data"/>
 <br />
 <br />
 
