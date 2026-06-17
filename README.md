@@ -30,7 +30,7 @@ This project consists of extracting, cleaning, transforming, and analyzing Uber 
 
 <p align="center">
 Load and Explore Raw Dataset: <br/>
-<img src="https://i.imgur.com/ZHS62du.png" height="80%" width="80%" alt="Dataset"/>
+<img src="https://i.imgur.com/dMnr7gf.png" height="80%" width="80%" alt="Dataset"/>
 <br />
 <br />
 
