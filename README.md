@@ -34,13 +34,13 @@ Load and Explore Raw Dataset: <br/>
 <br />
 <br />
 
-Filter Uber Ride Data and Select Variables: <br/>
+Generate Descriptive Statistics: <br/>
 <img src="https://i.imgur.com/MpbWKQE.png" height="80%" width="80%" alt="Filtering Data"/>
 <br />
 <br />
 
-Convert Timestamps and Create Time Variables: <br/>
-<img src="YOUR_TIMESTAMP_SCREENSHOT" height="80%" width="80%" alt="Timestamp Conversion"/>
+Analyze Ride Prices and Trip Distances: <br/>
+<img src="https://i.imgur.com/vgbJML6.png" height="80%" width="80%" alt="Timestamp Conversion"/>
 <br />
 <br />
 
