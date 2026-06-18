@@ -44,14 +44,9 @@ Analyze Ride Prices and Trip Distances: <br/>
 <br />
 <br />
 
-Identify Missing Values and Data Quality Issues: <br/>
-<img src="YOUR_STATS_SCREENSHOT" height="80%" width="80%" alt="Descriptive Statistics"/>
-<br />
-<br />
-
 
 Clean and Transform Uber Ride Dataset: <br/>
-<img src="YOUR_TRANSFORMATION_SCREENSHOT" height="80%" width="80%" alt="Data Cleaning"/>
+<img src="https://i.imgur.com/durkbU2.png" height="80%" width="80%" alt="Data Cleaning"/>
 <br />
 <br />
 
