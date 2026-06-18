@@ -44,22 +44,13 @@ Analyze Ride Prices and Trip Distances: <br/>
 <br />
 <br />
 
-Perform Descriptive Statistical Analysis: <br/>
+Identify Missing Values and Data Quality Issues: <br/>
 <img src="YOUR_STATS_SCREENSHOT" height="80%" width="80%" alt="Descriptive Statistics"/>
 <br />
 <br />
 
-Visualize Ride Prices and Distances: <br/>
-<img src="YOUR_VISUALIZATION_SCREENSHOT" height="80%" width="80%" alt="Data Visualization"/>
-<br />
-<br />
 
-Identify Missing Values and Dataset Biases: <br/>
-<img src="YOUR_BIAS_SCREENSHOT" height="80%" width="80%" alt="Bias Analysis"/>
-<br />
-<br />
-
-Clean and Transform Dataset: <br/>
+Clean and Transform Uber Ride Dataset: <br/>
 <img src="YOUR_TRANSFORMATION_SCREENSHOT" height="80%" width="80%" alt="Data Cleaning"/>
 <br />
 <br />
