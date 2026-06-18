@@ -51,6 +51,6 @@ Clean and Transform Uber Ride Dataset: <br/>
 <br />
 
 Generate Final Dataset for Analysis: <br/>
-<img src="YOUR_FINALDATA_SCREENSHOT" height="80%" width="80%" alt="Final Dataset"/>
+<img src="https://i.imgur.com/1JFcMbm.png" height="80%" width="80%" alt="Final Dataset"/>
 </p>
 ```
