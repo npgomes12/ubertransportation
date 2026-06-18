@@ -18,7 +18,8 @@ This project consists of extracting, cleaning, transforming, and analyzing Uber 
 
 <h2>Datasets Used</h2>
 
-- <b>Uber and Lyft Dataset Boston, MA (Kaggle)</b>
+  - [Uber and Lyft Dataset Boston, MA (Kaggle)
+](https://www.kaggle.com/datasets/brllrb/uber-and-lyft-dataset-boston-ma?resource=download)
 
 <h2>Environments Used</h2>
 
